@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/0157724c-60df-4b09-a7d8-dded4da45618/resourceGroups/School/providers/Microsoft.Web/sites/facedetected",
+    "appService.deploySubpath": "."
+}
